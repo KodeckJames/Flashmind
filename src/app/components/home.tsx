@@ -146,7 +146,7 @@ export default function StudyBuddy() {
               <Brain className="w-6 h-6 text-white" />
             </div>
             <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              Study Buddy AI
+              Flashmind AI
             </h1>
           </div>
         </div>
@@ -166,7 +166,7 @@ export default function StudyBuddy() {
                 value={text}
                 onChange={(e) => setText(e.target.value)}
                 placeholder="Paste your study text here... The AI will automatically generate flashcards from key concepts!"
-                className="w-full h-40 p-4 border border-gray-200 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent resize-none bg-white/50 backdrop-blur-sm"
+                className="w-full h-40 p-4 border border-gray-200 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent resize-none bg-white/50 backdrop-blur-sm text-black"
               />
               
               <div className="flex gap-3 mt-4">
