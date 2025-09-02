@@ -1,4 +1,4 @@
-# 🧠 Study Buddy AI
+# 🧠 Flashmind AI
 
 <div align="center">
 
@@ -9,8 +9,6 @@
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
 
 **Transform any text into smart flashcards with AI-powered generation**
-
-[🚀 Live Demo](#) • [📖 Documentation](#installation) • [🐛 Report Bug](https://github.com/yourusername/study-buddy-ai/issues) • [💡 Request Feature](https://github.com/yourusername/study-buddy-ai/issues)
 
 </div>
 
@@ -99,17 +97,6 @@
 | **Appwrite** | Backend Database | Latest |
 | **Vercel AI SDK** | AI Integration | Latest |
 | **Lucide React** | Icons | Latest |
-
-## 📸 Screenshots
-
-### Main Interface
-![Main Interface](https://via.placeholder.com/800x500/3B82F6/FFFFFF?text=Study+Buddy+AI+Main+Interface)
-
-### Study Mode
-![Study Mode](https://via.placeholder.com/800x500/8B5CF6/FFFFFF?text=Interactive+Study+Mode)
-
-### Deck Management
-![Deck Management](https://via.placeholder.com/400x600/10B981/FFFFFF?text=Saved+Decks)
 
 ## 🎯 Usage
 
